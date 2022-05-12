@@ -17,6 +17,8 @@ for example:
 `npx wdio wdio.conf.js --spec specs/2_registration_ddd.js`
 `npx wdio wdio.conf.js --spec specs/3_login.js`
 
+### Install allure
+`npm install -g allure-commandline --save-dev`
 ### Generate allure
 `npm run report`
 
