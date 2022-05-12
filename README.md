@@ -19,11 +19,9 @@ for example:
 
 ### Install allure
 `npm install -g allure-commandline --save-dev`
+
 ### Generate allure
 `npm run report`
-
-### Clean allure
-`npm run clean`
 
 ### Run REPL with Chrome
 `npm run repl`
